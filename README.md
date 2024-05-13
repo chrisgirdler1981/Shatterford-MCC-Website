@@ -11,6 +11,9 @@ This is a simple 4-page website created using HTML and CSS.
 5. [Building](#building)
 6. [Debugging](#Debugging)
 7. [Resources](#resources)
+8. [Version-control](#version-control)
+9. [Deployment](#deployment)
+
 
 ## Description
 
@@ -166,3 +169,23 @@ This went straight through the validator with no issues.
 *Git for version control.
 
 *Replit for use as a sandbox.
+
+## Version-control
+
+I had alot of problems with my github repositories not linking properly, the final time being at the end of my project as I was not utilizing "push", just "commit" until the final stages, this uncovered the issue. This caused me alot of problems as I lost everything apart from my main body of code, this meant I have lost some version control other than final tweaks, I have taken a screenshot of my version control up until this disaster hit. 
+![commit history](https://lh3.googleusercontent.com/pw/AP1GczPEkKx7ZVssX1p8jyHn72YDpOyNyW5PsvqvEHZG8mg20MMiPMKOqMGSqsAnYuAWhSp62VECx-GnhVS6QMn-aLJQecHVUCdBKoIrZ9zqS2NPLcYInkxqBQN5MZTOjqidK4Nj3fr50a_CERq01g3xUDOV=w910-h732-s-no-gm?authuser=1)
+
+Any tweaks made afterwords are committed, and pushed regularly.
+Once again, my belt and braces approach using Replit as my sandbox paid absolute dividends to get me out of this pickle.
+
+## Deployment
+
+I used GitHub pages to deploy my site. This required me to go to my project repository and then:
+
+1. Click on the 'Settings' tab.
+2. Select 'Pages' from the menu that appears on the left.
+3. Select 'Deploy from a branch'.
+4. Select 'Main' in the drop-down menu called 'Select Branch'.
+5. Then alongside 'Main', there is a folder dropdown where you select '/Root'.
+6. Click 'Save' button.
+7. Refresh the page and a link to the live project will appear at the top of the page.
