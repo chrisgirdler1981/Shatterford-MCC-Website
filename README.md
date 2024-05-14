@@ -1,6 +1,8 @@
 # Website for Shatterford Motorcycle Club
 
-This is a simple 4-page website created using HTML and CSS.
+This is a simple 4-page website created using HTML and CSS for a 50 year old Motorcycle Club who are without any kind of website.
+
+[Here is the link to the site](https://chrisgirdler1981.github.io/Shatterford-MCC-Website/)
 
 ## Table of Contents
 
@@ -17,7 +19,7 @@ This is a simple 4-page website created using HTML and CSS.
 
 ## Description
 
-this website was to be designed in a way that has a simple layout, much like websites from yesteryear. The users of this site both current members and prospective or other clubs are likely to be of an older generation, therefor I wanted it to be as familiar and straightforward as I could manage. It consists of four pages: Home, About, Gallery, and Contact.
+this website was to be designed in a way that has a simple layout, much like websites from yesteryear. The users of this site both prospective or current members or even other clubs are ptentially to be of an older generation, therefor I wanted it to be as familiar and straightforward as I could manage. It consists of four pages: Home, About, Gallery, and Contact.
 
 ## Pages
 
